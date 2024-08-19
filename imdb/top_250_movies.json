@@ -1,0 +1,602 @@
+[
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "duration": "2h 22m",
+        "rating": "9.3",
+        "vote": "2.9M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "title": "The Godfather",
+        "year": "1972",
+        "duration": "2h 55m",
+        "rating": "9.2",
+        "vote": "2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Dark Knight",
+        "year": "2008",
+        "duration": "2h 32m",
+        "rating": "9.0",
+        "vote": "2.9M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "duration": "3h 22m",
+        "rating": "9.0",
+        "vote": "1.4M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "title": "12 Angry Men",
+        "year": "1957",
+        "duration": "1h 36m",
+        "rating": "9.0",
+        "vote": "879K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "Schindler's List",
+        "year": "1993",
+        "duration": "3h 15m",
+        "rating": "9.0",
+        "vote": "1.5M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "duration": "3h 21m",
+        "rating": "9.0",
+        "vote": "2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "duration": "2h 34m",
+        "rating": "8.9",
+        "vote": "2.2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "duration": "2h 58m",
+        "rating": "8.9",
+        "vote": "2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "Il buono, il brutto, il cattivo",
+        "year": "1966",
+        "duration": "2h 41m",
+        "rating": "8.8",
+        "vote": "821K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "title": "Forrest Gump",
+        "year": "1994",
+        "duration": "2h 22m",
+        "rating": "8.8",
+        "vote": "2.3M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "duration": "2h 59m",
+        "rating": "8.8",
+        "vote": "1.8M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "Fight Club",
+        "year": "1999",
+        "duration": "2h 19m",
+        "rating": "8.8",
+        "vote": "2.4M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Inception",
+        "year": "2010",
+        "duration": "2h 28m",
+        "rating": "8.8",
+        "vote": "2.6M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "duration": "2h 4m",
+        "rating": "8.7",
+        "vote": "1.4M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "The Matrix",
+        "year": "1999",
+        "duration": "2h 16m",
+        "rating": "8.7",
+        "vote": "2.1M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "Goodfellas",
+        "year": "1990",
+        "duration": "2h 25m",
+        "rating": "8.7",
+        "vote": "1.3M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "duration": "2h 13m",
+        "rating": "8.7",
+        "vote": "1.1M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Interstellar",
+        "year": "2014",
+        "duration": "2h 49m",
+        "rating": "8.7",
+        "vote": "2.1M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+        "title": "Se7en",
+        "year": "1995",
+        "duration": "2h 7m",
+        "rating": "8.6",
+        "vote": "1.8M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "duration": "2h 10m",
+        "rating": "8.6",
+        "vote": "504K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTkwY2I5NWMtMjNlNi00ZThjLWI4NzQtNDI4M2I4OGM1YjAzXkEyXkFqcGdeQXVyNzYxODE3NTQ@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "title": "Shichinin no samurai",
+        "year": "1954",
+        "duration": "3h 27m",
+        "rating": "8.6",
+        "vote": "371K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "duration": "1h 58m",
+        "rating": "8.6",
+        "vote": "1.6M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "duration": "2h 49m",
+        "rating": "8.6",
+        "vote": "1.5M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "title": "Cidade de Deus",
+        "year": "2002",
+        "duration": "2h 10m",
+        "rating": "8.6",
+        "vote": "810K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "La vita \u00e8 bella",
+        "year": "1997",
+        "duration": "1h 56m",
+        "rating": "8.6",
+        "vote": "751K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Green Mile",
+        "year": "1999",
+        "duration": "3h 9m",
+        "rating": "8.6",
+        "vote": "1.4M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "duration": "2h 17m",
+        "rating": "8.6",
+        "vote": "1.2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "title": "Star Wars",
+        "year": "1977",
+        "duration": "2h 1m",
+        "rating": "8.6",
+        "vote": "1.5M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "title": "Back to the Future",
+        "year": "1985",
+        "duration": "1h 56m",
+        "rating": "8.5",
+        "vote": "1.3M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Sen to Chihiro no kamikakushi",
+        "year": "2001",
+        "duration": "2h 5m",
+        "rating": "8.6",
+        "vote": "865K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+        "title": "The Pianist",
+        "year": "2002",
+        "duration": "2h 30m",
+        "rating": "8.5",
+        "vote": "927K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Gisaengchung",
+        "year": "2019",
+        "duration": "2h 12m",
+        "rating": "8.5",
+        "vote": "984K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Psycho",
+        "year": "1960",
+        "duration": "1h 49m",
+        "rating": "8.5",
+        "vote": "727K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Gladiator",
+        "year": "2000",
+        "duration": "2h 35m",
+        "rating": "8.5",
+        "vote": "1.6M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Lion King",
+        "year": "1994",
+        "duration": "1h 28m",
+        "rating": "8.5",
+        "vote": "1.2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "duration": "2h 20m",
+        "rating": "8.6",
+        "vote": "394K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "title": "The Departed",
+        "year": "2006",
+        "duration": "2h 31m",
+        "rating": "8.5",
+        "vote": "1.4M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "L\u00e9on",
+        "year": "1994",
+        "duration": "1h 50m",
+        "rating": "8.5",
+        "vote": "1.3M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "American History X",
+        "year": "1998",
+        "duration": "1h 59m",
+        "rating": "8.5",
+        "vote": "1.2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Whiplash",
+        "year": "2014",
+        "duration": "1h 46m",
+        "rating": "8.5",
+        "vote": "1M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "duration": "2h 46m",
+        "rating": "8.5",
+        "vote": "497K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Prestige",
+        "year": "2006",
+        "duration": "2h 10m",
+        "rating": "8.5",
+        "vote": "1.5M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "Hotaru no haka",
+        "year": "1988",
+        "duration": "1h 28m",
+        "rating": "8.5",
+        "vote": "317K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWNmYzg5NWYtNzhiMS00NzlkLTgyOTUtYzM3MjY0NDc2YjFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "title": "Seppuku",
+        "year": "1962",
+        "duration": "2h 13m",
+        "rating": "8.6",
+        "vote": "71K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "duration": "1h 46m",
+        "rating": "8.5",
+        "vote": "1.2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "title": "Casablanca",
+        "year": "1942",
+        "duration": "1h 42m",
+        "rating": "8.5",
+        "vote": "612K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Intouchables",
+        "year": "2011",
+        "duration": "1h 52m",
+        "rating": "8.5",
+        "vote": "941K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Nuovo Cinema Paradiso",
+        "year": "1988",
+        "duration": "2h 54m",
+        "rating": "8.5",
+        "vote": "287K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2VlMjY3N2UtN2ZjNC00MDg4LWI3ZGQtZmE4NjZkZjkwZmYzXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Modern Times",
+        "year": "1936",
+        "duration": "1h 27m",
+        "rating": "8.5",
+        "vote": "262K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "title": "Rear Window",
+        "year": "1954",
+        "duration": "1h 52m",
+        "rating": "8.5",
+        "vote": "528K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "title": "Alien",
+        "year": "1979",
+        "duration": "1h 57m",
+        "rating": "8.5",
+        "vote": "967K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "C'era una volta il West",
+        "year": "1968",
+        "duration": "2h 46m",
+        "rating": "8.5",
+        "vote": "352K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "City Lights",
+        "year": "1931",
+        "duration": "1h 27m",
+        "rating": "8.5",
+        "vote": "198K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Django Unchained",
+        "year": "2012",
+        "duration": "2h 45m",
+        "rating": "8.5",
+        "vote": "1.7M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "duration": "2h 27m",
+        "rating": "8.4",
+        "vote": "718K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "title": "Memento",
+        "year": "2000",
+        "duration": "1h 53m",
+        "rating": "8.4",
+        "vote": "1.3M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "WALL\u00b7E",
+        "year": "2008",
+        "duration": "1h 38m",
+        "rating": "8.4",
+        "vote": "1.2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "duration": "1h 55m",
+        "rating": "8.4",
+        "vote": "1M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDI4OTM1ZjMtOWQxMC00OTY5LTg3NjQtMjlhMWVjODFlYTY4XkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_QL75_UY207_CR9,0,140,207_.jpg",
+        "title": "12th Fail",
+        "year": "2023",
+        "duration": null,
+        "rating": "8.9",
+        "vote": "125K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "title": "Das Leben der Anderen",
+        "year": "2006",
+        "duration": "2h 17m",
+        "rating": "8.4",
+        "vote": "414K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "title": "Sunset Blvd.",
+        "year": "1950",
+        "duration": "1h 50m",
+        "rating": "8.4",
+        "vote": "239K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "duration": "2h 29m",
+        "rating": "8.4",
+        "vote": "1.2M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "title": "Paths of Glory",
+        "year": "1957",
+        "duration": "1h 28m",
+        "rating": "8.4",
+        "vote": "215K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "duration": "1h 57m",
+        "rating": "8.4",
+        "vote": "687K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "duration": "1h 56m",
+        "rating": "8.4",
+        "vote": "140K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "title": "The Shining",
+        "year": "1980",
+        "duration": "2h 26m",
+        "rating": "8.4",
+        "vote": "1.1M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Great Dictator",
+        "year": "1940",
+        "duration": "2h 5m",
+        "rating": "8.4",
+        "vote": "239K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "title": "Alien 2",
+        "year": "1986",
+        "duration": "2h 17m",
+        "rating": "8.4",
+        "vote": "774K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "duration": "2h 33m",
+        "rating": "8.4",
+        "vote": "1.6M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "The Dark Knight Rises",
+        "year": "2012",
+        "duration": "2h 44m",
+        "rating": "8.4",
+        "vote": "1.8M"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "title": "Coco",
+        "year": "2017",
+        "duration": "1h 45m",
+        "rating": "8.4",
+        "vote": "606K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "title": "Amadeus",
+        "year": "1984",
+        "duration": "2h 40m",
+        "rating": "8.4",
+        "vote": "433K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "duration": "1h 35m",
+        "rating": "8.3",
+        "vote": "523K"
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "title": "Oldeuboi",
+        "year": "2003",
+        "duration": "2h",
+        "rating": "8.3",
+        "vote": "646K"
+    }
+]
